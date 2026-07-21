@@ -17,6 +17,9 @@ Accedi a ReStart, compila il form, carica i documenti e invia la domanda.
 ### [→ Step 3 — Dopo l'invio](step-3-post-assegnazione.md)
 Istruttoria, concessione del CUP, realizzazione del progetto e rendicontazione.
 
+### [→ Allegati](allegati.md)
+Guida alla compilazione di Allegato A, B e C. Download dei modelli ufficiali.
+
 ### [→ Supporto](supporto.md)
 Contatti, link utili e assistenza.
 
