@@ -2,7 +2,7 @@
 
 ---
 
-[← Sommario](README.md) | [← Step 1](step-1-preparazione.md) | [← Step 2](step-2-invio.md) | Step 3 | [Supporto →](supporto.md)
+[← Sommario](README.md) | [← Step 1](step-1-preparazione.md) | [← Step 2](step-2-invio.md) | Step 3 | [Supporto →](supporto.md) | [Allegati →](allegati.md)
 
 ---
 
@@ -74,4 +74,4 @@ Se hai dubbi sulla rendicontazione o sulle scadenze, contattaci dalla pagina [Su
 
 ---
 
-[← Sommario](README.md) | [← Step 1](step-1-preparazione.md) | [← Step 2](step-2-invio.md) | Step 3 | [Supporto →](supporto.md)
+[← Sommario](README.md) | [← Step 1](step-1-preparazione.md) | [← Step 2](step-2-invio.md) | Step 3 | [Supporto →](supporto.md) | [Allegati →](allegati.md)
