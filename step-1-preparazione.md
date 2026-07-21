@@ -51,10 +51,10 @@ Ecco cosa ti serve per la domanda. I documenti che ti forniamo noi sono gia' pro
 |-----------|---------------|------|
 | **Self i4.0** (report assessment) | ✅ Tu | Vedi punto 1.2 |
 | **Certificato polizza catastrofale** | ✅ Tu | Il certificato della polizza attiva |
-| **Allegato C** — Dimensione impresa | ✅ Tu | [Scarica il file Excel](allegati.md) e compila con i dati del tuo bilancio |
-| **Preventivi di spesa** | 🚀 Noi | Te li inviamo su nostra carta intestata, con schede tecniche |
-| **Allegato B** — Prospetto spese | 🚀 Noi | Gia' compilato con i nostri dati e la ripartizione. [Vedi guida](allegati.md) |
-| **Allegato A** — Descrizione progetto | 🚀 Noi | Ti forniamo i testi da inserire nel form online. [Vedi guida](allegati.md) |
+| **Allegato C** — Dimensione impresa | ✅ Tu | Ti inviamo il file Excel via email. Compila con i dati del tuo bilancio |
+| **Preventivi di spesa** | 🚀 Noi | Su nostra carta intestata, via email |
+| **Allegato B** — Prospetto spese | 🚀 Noi | Te lo inviamo **gia' compilato** via email. [Vedi guida](allegati.md) |
+| **Allegato A** — Descrizione progetto | 🚀 Noi | Ti forniamo testi e dati fornitori per il form. [Vedi guida](allegati.md) |
 | **Firma digitale** | ✅ Tu | Tutti i documenti vanno firmati digitalmente dal legale rappresentante |
 
 > **I documenti con 🚀 te li inviamo via email.** Tu li ricevi, li controlli, li firmi digitalmente e li carichi in piattaforma.
@@ -65,15 +65,15 @@ Ecco cosa ti serve per la domanda. I documenti che ti forniamo noi sono gia' pro
 
 Tutti i dettagli su come compilare Allegato A, B e C sono nella pagina dedicata:
 
-### [→ Vai alla pagina Allegati (guida + download)](allegati.md)
+### [→ Vai alla pagina Allegati (guida completa)](allegati.md)
 
 In sintesi:
 
-| Allegato | Formato | Cosa fare |
-|----------|---------|-----------|
-| **Allegato A** — Progetto | Form online Microsoft | Turbo Crowd ti fornisce i testi. Compili il form, ricevi il PDF via email, lo firmi digitalmente |
-| **Allegato B** — Prospetto spese | Excel | Te lo inviamo **gia' compilato** da Turbo Crowd con i nostri dati e la ripartizione spese |
-| **Allegato C** — Dimensione impresa | Excel | Lo compili tu con fatturato, dipendenti e attivo degli ultimi 3 bilanci |
+| Allegato | Cosa fare |
+|----------|-----------|
+| **Allegato A** — Progetto | Compili il form online con i testi e i dati fornitore che ti forniamo ([guida dettagliata](allegati.md)) |
+| **Allegato B** — Prospetto spese | Te lo inviamo gia' compilato via email: controlli, firmi e carichi |
+| **Allegato C** — Dimensione impresa | Ti inviamo il file Excel via email: compili i dati del tuo bilancio |
 
 ---
 
