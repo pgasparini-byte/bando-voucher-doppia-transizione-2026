@@ -11,13 +11,6 @@ Guida passo-passo valida per qualsiasi impresa: requisiti, documenti, compilazio
 
 ---
 
-## Istruzioni per cliente
-
-### [→ Forcrowd S.r.l.](forcrowd/)
-Istruzioni personalizzate per Forcrowd: stack tecnologico (Twenty CRM, Mautic, WordPress, iPaaS), integrazioni, formazione team.
-
----
-
 ## Contatti
 
 | **Turbo Crowd** | Iscritta all'Elenco pubblico dei Fornitori 4.0 di Unioncamere Lombardia |
