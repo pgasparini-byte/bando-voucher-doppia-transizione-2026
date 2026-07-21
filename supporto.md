@@ -2,7 +2,7 @@
 
 ---
 
-[← Sommario](README.md) | [← Step 1](step-1-preparazione.md) | [← Step 2](step-2-invio.md) | [← Step 3](step-3-post-assegnazione.md) | Supporto
+[← Sommario](README.md) | [← Step 1](step-1-preparazione.md) | [← Step 2](step-2-invio.md) | [← Step 3](step-3-post-assegnazione.md) | Supporto | [Allegati →](allegati.md)
 
 ---
 
@@ -64,4 +64,4 @@ Per problemi di accesso, malfunzionamenti o errori durante la compilazione sulla
 
 ---
 
-[← Sommario](README.md) | [← Step 1](step-1-preparazione.md) | [← Step 2](step-2-invio.md) | [← Step 3](step-3-post-assegnazione.md) | Supporto
+[← Sommario](README.md) | [← Step 1](step-1-preparazione.md) | [← Step 2](step-2-invio.md) | [← Step 3](step-3-post-assegnazione.md) | Supporto | [Allegati →](allegati.md)
