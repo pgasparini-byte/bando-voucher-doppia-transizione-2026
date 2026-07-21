@@ -2,7 +2,7 @@
 
 ---
 
-[← Sommario](README.md) | [← Step 1](step-1-preparazione.md) | Step 2 | [Step 3 →](step-3-post-assegnazione.md) | [Supporto →](supporto.md)
+[← Sommario](README.md) | [← Step 1](step-1-preparazione.md) | Step 2 | [Step 3 →](step-3-post-assegnazione.md) | [Supporto →](supporto.md) | [Allegati →](allegati.md)
 
 ---
 
@@ -54,12 +54,14 @@ Compila tutti i campi richiesti. Ecco i dati che ti servono:
 
 Allega i file che hai preparato nello [Step 1](step-1-preparazione.md), **tutti firmati digitalmente**:
 
-1. ✅ **Self i4.0** — report in PDF
-2. ✅ **Polizza catastrofale** — certificato
-3. ✅ **Allegato C** — modulo dimensione impresa
-4. 🚀 **Preventivi di spesa** — forniti da noi
-5. 🚀 **Allegato B** — fornito da noi
-6. 🚀 **Allegato A** — compila il form online (il sistema genera il PDF, lo ricevi via email, lo firmi digitalmente e lo ricarichi)
+1. **Self i4.0** — report in PDF
+2. **Polizza catastrofale** — certificato
+3. **Allegato C** — modulo dimensione impresa
+4. **Preventivi di spesa** — forniti da noi
+5. **Allegato B** — fornito da noi
+6. **Allegato A** — compila il form online (il sistema genera il PDF, lo ricevi via email, lo firmi digitalmente e lo ricarichi)
+
+> Per i dettagli su ogni allegato, consulta la pagina [Allegati](allegati.md).
 
 ---
 
@@ -84,4 +86,4 @@ Ora non ti resta che attendere l'istruttoria. Vai allo Step 3 per sapere cosa fa
 
 ---
 
-[← Sommario](README.md) | [← Step 1](step-1-preparazione.md) | Step 2 | [Step 3 →](step-3-post-assegnazione.md) | [Supporto →](supporto.md)
+[← Sommario](README.md) | [← Step 1](step-1-preparazione.md) | Step 2 | [Step 3 →](step-3-post-assegnazione.md) | [Supporto →](supporto.md) | [Allegati →](allegati.md)
