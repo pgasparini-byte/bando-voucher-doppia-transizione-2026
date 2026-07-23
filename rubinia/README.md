@@ -107,20 +107,46 @@ L'infrastruttura e' ospitata su server dedicati in container Docker. I software 
 |-------|--------|
 | **Fornitore 1 — Nome** | Italia Digitale SRL |
 | **Fornitore 1 — Codice Fiscale** | 11914080962 |
-| **Iscritto Elenco Fornitori 4.0** | SI |
+| **Iscritto Elenco Fornitori 4.0** | **SI** |
 
 ### Tecnologia da selezionare nel form
 
 | Campo | Selezione |
 |-------|-----------|
-| **Tipologia principale** | Soluzioni tecnologiche per la gestione e il coordinamento dei processi aziendali con elevate caratteristiche di integrazione delle attivita' |
+| **Tipologia principale** | Soluzioni tecnologiche per la gestione e il coordinamento dei processi aziendali con elevate caratteristiche di integrazione delle attivita' (ERP, MES, PLM, SCM, RFID, barcode, etc) |
 | **Secondaria 1** | Customer Relationship Management (CRM) |
 | **Secondaria 2** | Big data & analytics |
-| **Secondaria 3** | Intelligenza artificiale |
+| **Secondaria 3** | Intelligenza artificiale (Machine learning, Deep Learning, NLP, LLM, Agenti AI, data mining) |
 
-### Descrizione del progetto
+### Descrizione del progetto (max 4.000 caratteri)
 
-Il testo da incollare nel form dell'Allegato A (max 4.000 caratteri) ti verra' fornito via email insieme agli altri documenti.
+Copia il testo qui sotto e incollalo nel form Microsoft dell'Allegato A. Clicca **Copia** e poi incolla direttamente nel campo "Descrizione del progetto" del form.
+
+<div class="copy-container">
+  <div class="copy-header">
+    <span>Testo per Allegato A — Rubinia</span>
+    <button class="copy-btn">Copia</button>
+  </div>
+  <textarea class="copy-text" readonly>Il progetto si articola in tre componenti integrate, coerenti con la strategia del Piano Nazionale Transizione 5.0, e riguarda la trasformazione digitale dei processi di gestione clienti, marketing e comunicazione di Rubinia, brand di gioielleria attivo su e-commerce Shopify, negozi fisici e canali social.
+
+A) CONSULENZA (Art. 7 c.2). Il progetto prevede un assessment operativo dell'ecosistema digitale attualmente in uso presso Rubinia, con particolare riferimento ai flussi che coinvolgono HubSpot (CRM sorgente), Shopify (e-commerce), Klaviyo (marketing automation e newsletter), eSolver (ERP gestionale) ed Extranet (portale clienti). L'analisi identifica inefficienze, silos informativi e opportunita' di automazione nei processi di gestione clientela, fidelizzazione post-vendita, comunicazione multicanale e gestione delle garanzie e riparazioni. Sulla base dell'analisi viene predisposto un piano di sviluppo digitale che definisce l'architettura di migrazione del CRM da HubSpot a Twenty CRM, passando per un database intermedio NocoDB per la pulizia e normalizzazione dei dati, le logiche di integrazione tra i sistemi esterni e il nuovo CRM, e le modalita' di adozione di strumenti di social media management (Postiz) e marketing automation (Klaviyo). Il servizio include la supervisione dell'intero percorso di trasformazione digitale e il presidio del change management organizzativo (Innovation Manager), con l'obiettivo di preparare l'infrastruttura dati e comunicazione per la campagna di equity crowdfunding prevista a settembre 2026.
+
+C) TECNOLOGIA (Art. 7 c.1). L'intervento tecnologico consiste nell'implementazione di soluzioni per la gestione e il coordinamento dei processi aziendali con elevate caratteristiche di integrazione delle attivita' (Art. 7 c.1 lett. k). Nello specifico, si procede con:
+
+(a) la migrazione completa del CRM da HubSpot a Twenty CRM (CRM open-source, Art. 7 c.1 lett. l), realizzata attraverso un database intermedio NocoDB per la fase di estrazione, pulizia, normalizzazione e validazione dei dati. Il nuovo CRM viene configurato con campi personalizzati per la gestione delle garanzie prodotti, delle riparazioni e dello storico interventi, creando una vista unificata del cliente attraverso l'integrazione con i sistemi esterni (Shopify, eSolver, Extranet);
+
+(b) l'integrazione e l'orchestrazione dei software tramite piattaforma iPaaS (n8n o equivalente) che abilita lo scambio bidirezionale di dati in tempo reale tra: Shopify e Twenty CRM (sincronizzazione clienti, ordini, garanzie), eSolver ed Extranet verso Twenty CRM (storico riparazioni e interventi), Shopify e Klaviyo (segmentazione clienti per campagne marketing e referral program);
+
+(c) l'attivazione della piattaforma Postiz per la gestione centralizzata dei canali social (Instagram, Facebook), con integrazione verso il CRM per il tracciamento delle interazioni social nella vista cliente;
+
+(d) l'implementazione di dashboard analytics (Art. 7 c.1 lett. g) per il monitoraggio in tempo reale delle performance di vendita, marketing e coinvolgimento clienti. L'infrastruttura e' ospitata su server dedicati in container Docker con architettura cloud (Art. 7 c.1 lett. b), a garanzia di scalabilita' e business continuity.
+
+B) FORMAZIONE (Art. 7 c.3). Le attivita' formative sono rivolte al personale impiegato stabilmente in Rubinia e finalizzate all'acquisizione di competenze digitali connesse alle tecnologie implementate (Art. 7 c.3 lett. b). Il percorso formativo prevede: training operativo sul CRM Twenty (gestione pipeline, contatti, attivita' commerciali, gestione garanzie e riparazioni), formazione su Klaviyo per la gestione autonoma di newsletter, segmentazione clienti e flussi di marketing automation, utilizzo di Postiz per la gestione dei canali social e la programmazione dei contenuti. La metodologia segue il modello "Avvio - Affiancamento - Standardizzazione - Evoluzione": nei primi mesi Turbo Crowd imposta e gestisce le tecnologie, poi trasferisce progressivamente le competenze al team Rubinia attraverso sessioni programmate, fino al raggiungimento della piena autonomia operativa sulle attivita' quotidiane (gestione CRM, newsletter, social media, reportistica). Il percorso include la costruzione della knowledge base aziendale dove vengono formalizzate le procedure operative standardizzate.</textarea>
+</div>
+
+### Link al form
+
+**[→ Apri il form Allegato A](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=wdFmYyKD6Uub8uowsPk3pQRM4xmFFUFMg1ZB7towhUBUQ01WQ0ZGRk5YM0w5NFlXMkRZMU1aWk5CRC4u)**
 
 ---
 
