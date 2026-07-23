@@ -21,4 +21,79 @@
   .site-title, .site-title a, .header-heading a {
     color: rgb(246, 179, 49) !important;
   }
+
+  /* Copy button styles */
+  .copy-container {
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    overflow: hidden;
+    margin: 20px 0;
+  }
+  .copy-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #f5f5f5;
+    padding: 8px 14px;
+    border-bottom: 1px solid #ddd;
+  }
+  .copy-header span {
+    font-size: 0.85em;
+    color: #666 !important;
+    font-weight: 600;
+  }
+  .copy-btn {
+    background: rgb(246, 179, 49);
+    color: #222 !important;
+    border: none;
+    padding: 6px 16px;
+    border-radius: 4px;
+    font-size: 0.85em;
+    cursor: pointer;
+    font-weight: 600;
+    transition: background 0.2s;
+  }
+  .copy-btn:hover {
+    background: rgb(210, 145, 20);
+  }
+  .copy-btn.copied {
+    background: #2ecc71;
+    color: #fff !important;
+  }
+  .copy-text {
+    width: 100%;
+    min-height: 200px;
+    padding: 14px;
+    border: none;
+    background: #fff;
+    font-family: monospace;
+    font-size: 0.82em;
+    line-height: 1.6;
+    color: #222;
+    resize: vertical;
+    box-sizing: border-box;
+  }
 </style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.copy-btn').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      var container = this.closest('.copy-container');
+      var textarea = container.querySelector('.copy-text');
+      textarea.select();
+      textarea.setSelectionRange(0, 99999);
+      navigator.clipboard.writeText(textarea.value).then(function() {
+        var originalText = this.textContent;
+        this.textContent = '✓ Copiato!';
+        this.classList.add('copied');
+        var self = this;
+        setTimeout(function() {
+          self.textContent = originalText;
+          self.classList.remove('copied');
+        }, 2000);
+      }.bind(this));
+    });
+  });
+});
+</script>
