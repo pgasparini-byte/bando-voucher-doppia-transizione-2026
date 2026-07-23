@@ -11,6 +11,19 @@ Guida passo-passo valida per qualsiasi impresa: requisiti, documenti, compilazio
 
 ---
 
+## Istruzioni per cliente
+
+Scegli la pagina dedicata al tuo progetto:
+
+| Cliente | Pagina |
+|---------|--------|
+| **Forcrowd S.r.l.** | [→ Vai alle istruzioni Forcrowd](forcrowd/) |
+| **Rubinia S.r.l.** | [→ Vai alle istruzioni Rubinia](rubinia/) |
+| **SizeYou** | [→ Vai alle istruzioni SizeYou](sizeyou/) |
+| **TAM — Teatro Arcimboldi Milano** | [→ Vai alle istruzioni TAM](tam/) |
+
+---
+
 ## Contatti
 
 | **Turbo Crowd** | Iscritta all'Elenco pubblico dei Fornitori 4.0 di Unioncamere Lombardia |
