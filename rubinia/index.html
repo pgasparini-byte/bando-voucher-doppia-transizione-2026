@@ -7,6 +7,64 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Bando Voucher Doppia Transizione 2026 — Rubinia</title>
   <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+<style>
+  h1, h2, h3 { color: rgb(246, 179, 49) !important; }
+  h4, h5, h6 { color: rgb(210, 145, 20) !important; }
+  a, a:link, a:visited { color: #267CB9 !important; }
+  a:hover { color: #069 !important; }
+  header h1, header h1 a, header h2 a, header h3 a,
+  header a[href], header p a, header .site-title a {
+    color: rgb(246, 179, 49) !important;
+  }
+  .site-title, .site-title a, .header-heading a {
+    color: rgb(246, 179, 49) !important;
+  }
+  .copy-container {
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    overflow: hidden;
+    margin: 20px 0;
+  }
+  .copy-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #f5f5f5;
+    padding: 8px 14px;
+    border-bottom: 1px solid #ddd;
+  }
+  .copy-header span {
+    font-size: 0.85em;
+    color: #666 !important;
+    font-weight: 600;
+  }
+  .copy-btn {
+    background: rgb(246, 179, 49);
+    color: #222 !important;
+    border: none;
+    padding: 6px 16px;
+    border-radius: 4px;
+    font-size: 0.85em;
+    cursor: pointer;
+    font-weight: 600;
+    transition: background 0.2s;
+  }
+  .copy-btn:hover { background: rgb(210, 145, 20); }
+  .copy-btn.copied { background: #2ecc71; color: #fff !important; }
+  .copy-text {
+    width: 100%;
+    min-height: 200px;
+    padding: 14px;
+    border: none;
+    background: #fff;
+    font-family: monospace;
+    font-size: 0.82em;
+    line-height: 1.6;
+    color: #222;
+    resize: vertical;
+    box-sizing: border-box;
+  }
+</style>
 </head>
 <body>
   <div class="wrapper">
@@ -148,7 +206,7 @@
 <div class="copy-container">
   <div class="copy-header">
     <span>Testo per Allegato A — Rubinia</span>
-    <button class="copy-btn">Copia</button>
+    <button class="copy-btn" onclick="var t=this.parentElement.parentElement.querySelector('.copy-text');t.select();t.setSelectionRange(0,99999);navigator.clipboard.writeText(t.value).then(function(){this.textContent='✓ Copiato!';this.classList.add('copied');var b=this;setTimeout(function(){b.textContent='Copia';b.classList.remove('copied')},2000)}.bind(this))">Copia</button>
   </div>
   <textarea class="copy-text" readonly>Il progetto si articola in tre componenti integrate, coerenti con la strategia del Piano Nazionale Transizione 5.0, e riguarda la trasformazione digitale dei processi di gestione clienti, marketing e comunicazione di Rubinia, brand di gioielleria attivo su e-commerce Shopify, negozi fisici e canali social.
 
