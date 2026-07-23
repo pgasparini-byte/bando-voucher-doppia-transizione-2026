@@ -19,6 +19,7 @@ Scegli la pagina dedicata al tuo progetto:
 |---------|--------|
 | **Forcrowd S.r.l.** | [→ Vai alle istruzioni Forcrowd](forcrowd/) |
 | **Rubinia S.r.l.** | [→ Vai alle istruzioni Rubinia](rubinia/) |
+| **SIX.PM S.r.l.** | [→ Vai alle istruzioni SIX.PM](sixpm/) |
 | **SizeYou** | [→ Vai alle istruzioni SizeYou](sizeyou/) |
 | **TAM — Teatro Arcimboldi Milano** | [→ Vai alle istruzioni TAM](tam/) |
 
