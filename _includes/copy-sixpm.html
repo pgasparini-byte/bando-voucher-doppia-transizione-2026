@@ -1,0 +1,21 @@
+<div class="copy-container">
+  <div class="copy-header">
+    <span>Testo per Allegato A — SIX.PM</span>
+    <button class="copy-btn" onclick="var t=this.parentElement.parentElement.querySelector('.copy-text');t.select();t.setSelectionRange(0,99999);navigator.clipboard.writeText(t.value).then(function(){this.textContent='✓ Copiato!';this.classList.add('copied');var b=this;setTimeout(function(){b.textContent='Copia';b.classList.remove('copied')},2000)}.bind(this))">Copia</button>
+  </div>
+  <textarea class="copy-text" readonly>Il progetto si articola in tre componenti integrate, coerenti con la strategia del Piano Nazionale Transizione 5.0, e riguarda la trasformazione digitale dei processi di ricerca e acquisizione prospect, gestione commerciale e documentale di SIX.PM, societa' operante nello sviluppo immobiliare nei segmenti industriale, direzionale e retail a reddito.
+
+A) CONSULENZA (Art. 7 c.2). Il progetto prevede un assessment operativo dell'ecosistema digitale attualmente in uso presso SIX.PM, con particolare riferimento ai flussi che coinvolgono HubSpot (CRM attuale), Getrix (gestionale immobiliare di Immobiliare.it) e CreditSafe (analisi credito aziende). L'analisi identifica inefficienze, silos informativi e opportunita' di automazione nei processi di ricerca e qualificazione di immobili industriali e commerciali, gestione delle opportunita' e archiviazione documentale. Sulla base dell'analisi viene predisposto un piano di sviluppo digitale che definisce l'architettura del sistema basato su Twenty CRM, agenti AI, piattaforma di gestione documentale e iPaaS per l'orchestrazione dei flussi. Il servizio include la supervisione dell'intero percorso di trasformazione digitale e il presidio del change management organizzativo.
+
+C) TECNOLOGIA (Art. 7 c.1). L'intervento tecnologico consiste nell'implementazione di soluzioni per la gestione e il coordinamento dei processi aziendali con elevate caratteristiche di integrazione delle attivita' (Art. 7 c.1 lett. k). Nello specifico, si procede con:
+
+(a) la migrazione del CRM da HubSpot a Twenty CRM (Art. 7 c.1 lett. l), con configurazione di pipeline personalizzate per i segmenti industriale, direzionale e retail, campi personalizzati per tipologia immobiliare, valore, localizzazione e stato della trattativa;
+
+(b) l'implementazione di un sistema AI con subagenti intelligenti (Art. 7 c.1 lett. d) per l'automazione della ricerca e qualificazione di immobili industriali, centri direzionali e retail a reddito: ogni subagente e' specializzato per tipologia immobiliare e si occupa di monitoraggio delle fonti, profilazione dei prospect e popolamento automatico del CRM con dati strutturati arricchiti tramite CreditSafe API;
+
+(c) l'implementazione di un sistema di gestione documentale integrato con Twenty CRM per l'archiviazione, protocollazione e condivisione della documentazione immobiliare (schede tecniche, planimetrie, contratti, documenti urbanistici);
+
+(d) l'orchestrazione dei flussi tramite piattaforma iPaaS (n8n) che abilita l'integrazione bidirezionale tra Twenty CRM, AI agents, sistema documentale, Getrix e CreditSafe, e dashboard analytics (Art. 7 c.1 lett. g) per il monitoraggio in tempo reale del pipeline e delle attivita'. L'infrastruttura e' ospitata su server dedicati in container Docker con architettura cloud (Art. 7 c.1 lett. b).
+
+B) FORMAZIONE (Art. 7 c.3). Le attivita' formative sono rivolte al personale impiegato stabilmente in SIX.PM e finalizzate all'acquisizione di competenze digitali connesse alle tecnologie implementate (Art. 7 c.3 lett. b). Il percorso formativo prevede: training operativo su Twenty CRM (gestione pipeline, contatti, opportunita'), formazione sull'utilizzo del sistema AI con subagenti per la ricerca e qualificazione prospect, formazione sul sistema di gestione documentale e sull'uso delle dashboard analytics per il monitoraggio delle performance. La metodologia segue il modello "Avvio - Affiancamento - Standardizzazione - Evoluzione": nei primi mesi Turbo Crowd imposta e gestisce le tecnologie, poi trasferisce progressivamente le competenze al team SIX.PM fino al raggiungimento della piena autonomia operativa.</textarea>
+</div>
